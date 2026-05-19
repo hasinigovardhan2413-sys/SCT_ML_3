@@ -7,11 +7,9 @@ The project was developed using Python in Google Colab and uses image preprocess
 
 ## Dataset Used
 
-The Cats vs Dogs dataset was taken from Kaggle.
+The Cats vs Dogs dataset was taken from Googlechrome.
 
 Dataset Source:
-https://www.googlechrome.com/c/dogs-vs-cats/data
-
 A ZIP file containing cat and dog images was downloaded from googlechrome and extracted before using the images for model training.
 
 ## Technologies Used
@@ -38,9 +36,8 @@ A ZIP file containing cat and dog images was downloaded from googlechrome and ex
 ## Files Included
 
 - Cats_Dogs_Classification.ipynb
-- README.md
 - Sample cat and dog images
-- Extracted dataset images from Kaggle ZIP file
+- Extracted dataset images from Googlechrome ZIP file
 
 ## Platform Used
 
